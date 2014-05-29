@@ -8,3 +8,14 @@ Libcore64 is a fork of Android libcore [4.4_r07](https://github.com/dicej/androi
 
 [Build](BUILD.md)
 =================
+
+Todo
+====
+- [ ] C libaries
+  - [ ] libgc.a
+  - [ ] librobovm-bc.a
+  - [ ] librobovm-core.a
+  - [ ] librobovm-debug.a
+  - [ ] librobovm-rt.a
+- [ ] robovm-rt.jar
+
