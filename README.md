@@ -1,7 +1,7 @@
 Introduction
 ============
 
-This a build of libcore64 for [Robovm 0.9](https://github.com/PerfectCarl/robovm/tree/link_windows) using [cmake](www.cmake.org).
+This a build of libcore64 for [Robovm 0.9](https://github.com/PerfectCarl/robovm/tree/link_windows_libcore64) using [cmake](www.cmake.org).
 This wouldn't be possible without [Jan's work](https://github.com/janblok/robovm/tree/link_windows)
 
 Libcore64 is a fork of Android libcore [4.4_r07](https://github.com/dicej/android-libcore64/issues/3) that supports **64 bits** and **Windows**
