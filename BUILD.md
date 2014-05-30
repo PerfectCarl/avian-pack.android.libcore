@@ -1,12 +1,13 @@
 # Prerequesites 
 
  - Maven 3.1
+ - cmake 
 
 # Download the sources
 1. Download robovm 
 2. Download libcore64
 
-The to folder must be in the same parent folder 
+The two folders must be in the same parent folder 
 ````
  ;) > dir
 
@@ -19,6 +20,12 @@ The to folder must be in the same parent folder
 # Build robovm-rt.jar
 
 bouncycastle: OpenSSLDigest.java NativeCrypto has move from `org.apache.harmony.xnet.provider.jsse.NativeCrypto` to `import com.android.org.conscrypt.NativeCrypto` 
+
 http://platform--external--bouncycastle.android-source-browsing.googlecode.com/git/bcprov/src/main/java/org/bouncycastle/crypto/digests/OpenSSLDigest.java
+````
+cd avian-pack.android.libcore/robovm 
+maven package
+````
+The jar file is located in `robovm/target`
 
 # Build
