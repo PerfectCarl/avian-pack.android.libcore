@@ -6,7 +6,7 @@
 # Download the sources
 ### Download robovm 
 ````
-git clone https://github.com/PerfectCarl/robovm.git -b link_windows_libcore64
+git clone https://github.com/PerfectCarl/robovm.git -b link_windows_libcore64 --single-branch
 ````
 
 ### Download libcore64
