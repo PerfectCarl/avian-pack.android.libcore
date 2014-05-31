@@ -4,12 +4,12 @@
  - cmake 
 
 # Download the sources
-1. Download robovm 
+### Download robovm 
 ````
 git clone https://github.com/PerfectCarl/robovm.git -b link_windows_libcore64
 ````
 
-2. Download libcore64
+### Download libcore64
 ````
 git clone https://github.com/PerfectCarl/avian-pack.android.libcore.git
 ````
