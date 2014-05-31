@@ -37,4 +37,8 @@ bouncycastle: OpenSSLDigest.java NativeCrypto has move from `org.apache.harmony.
 
 http://platform--external--bouncycastle.android-source-browsing.googlecode.com/git/bcprov/src/main/java/org/bouncycastle/crypto/digests/OpenSSLDigest.java
 
-# Build
+# Build llvm 
+
+# Build rt
+
+
